@@ -1,4 +1,4 @@
-# OpenCV 4.10.0 SDK for Android
+# OpenCV 4.10.0 With Contrib SDK for Android
 
 ```
 # cmake
